@@ -1,3 +1,14 @@
+/**
+* <h1>PostgreSQL JDBC</h1>
+* Dans ce projet, nous établissons une connexion simple à notre base de données 
+* PostgreSQL nommée "Vente" pour obtenir les valeurs de la table "clients" à 
+* des fins de démonstration de l'utilisation de la bibliothèque JDBC.
+*
+* @author   Adonis Rebano
+* @version  1.0
+* @since    18/10/2023
+*/
+
 package com.postgresjdbc;
 
 import java.sql.Connection;
